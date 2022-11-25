@@ -1,3 +1,6 @@
+#Install git
+sudo apt install git
+
 #Go to home directory
 cd ~
 
